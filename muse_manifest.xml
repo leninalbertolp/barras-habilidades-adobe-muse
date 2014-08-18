@@ -1,0 +1,18 @@
+<manifest alg="2" build="375" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1408393347473">
+  <folder name="css">
+    <file name="site_global.css" crc="276554232"/>
+    <file name="master_a-p_g_-maestra.css" crc="4011777468" ref="index"/>
+    <file name="index.css" crc="312599515" ref="index"/>
+    <file name="iefonts_index.css" crc="185323728" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
+    <file name="museutils.js" crc="135030331" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="musecc.jpg" crc="4040596008" ref="index"/>
+    <file name="img.jpg" crc="3947074694" ref="index"/>
+  </folder>
+  <file name="index.html" crc="269704929" mt="1408393238109" redirect="true"/>
+</manifest>
