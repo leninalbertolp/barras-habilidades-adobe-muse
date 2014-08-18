@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-Widget: animated skills bar - Adobe Muse CC 2014
+Widget: Barra de Habilidades - Adobe Muse CC 2014
 Autor: Lenin Peña - http://twitter.com/leninalbertop
 Versión del Widget: 1.0.1
 -->
@@ -83,7 +83,7 @@ Versión del Widget: 1.0.1
 				-moz-border-radius-bottomleft:3px;
 				border-top-left-radius:3px;
 				border-bottom-left-radius:3px;
-			  }
+			  	}
 
 				.skillbar-title span {
 				display:block;
