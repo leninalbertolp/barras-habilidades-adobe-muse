@@ -1,4 +1,4 @@
-BarradeHabilidades-ForMuse
+BarradeHabilidades-AdobeMuse
 ==========================
 
 Barra de habilidades es un magnifico Widget para Adobe Muse, que le permitirá crear bonitas barras alegóricas a sus destrezas de programación, desarrollo de Apps, control de versiones y manejadores de contenido CMS.
