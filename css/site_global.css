@@ -113,28 +113,34 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.comparte-para-descargar a:link
+a,.enlace a
 {
-	color: #FFFFFF;
-	text-decoration: none;
+	color: inherit;
+	text-decoration: inherit;
 }
 
-.comparte-para-descargar a:visited
+.enlace a:link
 {
 	color: #FFFFFF;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
-.comparte-para-descargar a:hover
+.enlace a:visited
 {
 	color: #FFFFFF;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
-.comparte-para-descargar a:active
+.enlace a:hover
 {
 	color: #FFFFFF;
-	text-decoration: none;
+	text-decoration: underline;
+}
+
+.enlace a:active
+{
+	color: #FFFFFF;
+	text-decoration: underline;
 }
 
 .normal_text
